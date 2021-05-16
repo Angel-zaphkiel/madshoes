@@ -1,5 +1,7 @@
 # madshoes
+##
 
+Implement Javascript (Cart-js)[https://github.com/wojodesign/simplecart-js]instead of hosting a database.
 ## TODO
 Setup local git remote.
 
