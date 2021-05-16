@@ -9,7 +9,7 @@
 
 Implement Javascript [Cart-js](https://github.com/wojodesign/simplecart-js) instead of hosting a database.
 
-# Research: Use Google Sheet to as database 
+# Research: Use Google Sheet as database instead
 
 
 
