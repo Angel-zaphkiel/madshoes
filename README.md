@@ -2,6 +2,9 @@
 ##
 
 Implement Javascript [Cart-js](https://github.com/wojodesign/simplecart-js) instead of hosting a database.
+
+Huge ### RED FLAG security issues!
+
 ## TODO
 -[x] Setup local git remote no upstream.
 
@@ -9,7 +12,7 @@ Implement Javascript [Cart-js](https://github.com/wojodesign/simplecart-js) inst
 
 -[] Translate HTML to actual codebase
 
--[] ~~ host on https://zeet.co ~~
+-[] find a hosting service
 
 -[] sign off
 
