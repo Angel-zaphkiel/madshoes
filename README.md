@@ -1,18 +1,29 @@
 # madshoes
-##
+
+## May 16,2020: todo
+> Javascript or python for backend?
+> Put everythin into docker?
+
+
+
 
 Implement Javascript [Cart-js](https://github.com/wojodesign/simplecart-js) instead of hosting a database.
 
-Huge ### RED FLAG security issues!
+# Research: Use Google Sheet to as database 
+
+
+
+
+May 15,2020: todo
 
 ## TODO
 -[x] Setup local git remote no upstream.
 
 -[x] Add local server for development
 
--[] Translate HTML to actual codebase
+-[X] Translate HTML to actual codebase
 
--[] find a hosting service
+<!-- -[] find a hosting service -->
 
 -[] sign off
 
